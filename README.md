@@ -24,7 +24,7 @@ but who care, I had fun and I could watch all day these birds simulating a fluid
 
 ## Installation
 
-> If you don't want to bother yourself compiling this, you can check out the [web demo](https://ilingu.github.io/lignum)
+> If you don't want to bother yourself compiling this, you can check out the [web demo](https://ilingu.github.io/lignum/server)
 >
 > Beware that it's a really simplified version (a demo...) of the actual algorithm (e.g: birds sprite/animation and the user interface cannot be load in web, the perfomance are not really great either)
 
